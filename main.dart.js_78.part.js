@@ -1,0 +1,31 @@
+((a,b,c)=>{a[b]=a[b]||{}
+a[b][c]=a[b][c]||[]
+a[b][c].push({p:"main.dart.js_78",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,D,A,E,B={
+fJa(d){return"Ka vet\xebm "+C.i(d)+"x k\xebrkim imazhesh n\xeb versionin falas."},
+fKe(d){return"Deri n\xeb "+C.i(d)+" mesazhe mund t\xeb shfaqen vet\xebm n\xeb versionin falas."},
+fLm(d){return"Data e skadimit t\xeb abonimit "+C.i(d)},
+fMu(d){var x=null
+return"Krijo ("+C.i(d)+" "+E.fZ(d,x,x,x,x,x,x,"time","times",x,x,x)+")"},
+fa3(d){return C.f(["about_openai",A.c("p\xebr"),"apply_openai",A.c("aplikoni"),"artist_openai",A.c("Artist"),"cancel_openai",A.c("anuloj"),"chatDetail_openai",A.c("Detajet e bised\xebs"),"chatGPT_openai",A.c("Biseda GPT"),"chatWithBot_openai",A.c("Bisedoni me Bot"),"chat_openai",A.c("Bised\xeb"),"chooseArtist_openai",A.c("Zgjidhni artistin p\xebr imazhin tuaj"),"chooseDetail_openai",A.c("Zgjidhni detaje p\xebr imazhin tuaj"),"chooseMedium_openai",A.c("Zgjidhni medium p\xebr imazhin tuaj"),"chooseMood_openai",A.c("Zgjidhni disponimin p\xebr imazhin tuaj"),"chooseUseCase_openai",A.c("Zgjidhni rastin e p\xebrdorimit"),"choseStyle_openai",A.c("Zgjidhni stilin p\xebr imazhin tuaj"),"clearConfirm_openai",A.c("Je i sigurt p\xebr t\xeb pastruar p\xebrmbajtjen?"),"clearContent_openai",A.c("P\xebrmbajtja e past\xebr"),"clearConversation_openai",A.c("Bised\xeb e qart\xeb"),"clear_openai",A.c("qart\xeb"),"confirmDeleteItem_openai",A.c("Jeni i sigurt q\xeb d\xebshironi ta fshini k\xebt\xeb artikull?"),"confirmDelete_openai",A.c("Ju lutemi konfirmoni n\xebse d\xebshironi t\xeb vazhdoni me fshirjen e k\xebtij artikulli. Nuk mund ta zhb\xebsh k\xebt\xeb veprim."),"confirmRemoveKey_openai",A.c("Je i sigurt p\xebr t\xeb hequr \xe7el\xebsin?"),"confirm_openai",A.c("Confirm"),"copiedToClipboard_openai",A.c("P\xebrmbajtja e kopjuar n\xeb kujtes\xebn e fragmenteve"),"copy_openai",A.c("kopje"),"createChatFailed_openai",A.c("Krijimi i bised\xebs d\xebshtoi"),"deleteFailed_openai",A.c("Fshirja d\xebshtoi"),"delete_openai",A.c("fshij"),"detail_openai",A.c("holl\xebsi"),"download_openai",A.c("Shkarko"),"edit_openai",A.c("redaktoj"),"failedToGenerate_openai",A.c("Gjenerimi d\xebshtoi"),"generate_openai",A.c("Gjeneroni"),"grid_openai",A.c("Rrjeti"),"imageGenerate_openai",A.c("Gjenerimi i imazhit"),"imageSize_openai",A.c("Madh\xebsia e figur\xebs"),"inputKey_openai",A.c("\xc7el\xebsi i hyrjes"),"interest_openai",A.c("Interesi"),"introAboutKey_openai",A.c("\xc7el\xebsi juaj API ruhet lokalisht n\xeb celularin tuaj dhe nuk d\xebrgohet kurr\xeb askund tjet\xebr. Mund ta ruani \xe7el\xebsin tuaj p\xebr ta p\xebrdorur m\xeb von\xeb. Ju gjithashtu mund ta hiqni \xe7el\xebsin n\xebse nuk d\xebshironi ta p\xebrdorni m\xeb."),"invalidKey_openai",A.c("\xc7el\xebsi i pavlefsh\xebm"),"jobRole_openai",A.c("Roli i pun\xebs"),"jobSkills_openai",A.c("Aft\xebsit\xeb e Pun\xebs"),"layoutStyle_openai",A.c("Stili i paraqitjes"),"limitImage_openai",B.hhR(),"limitTheText_openai",B.hhS(),"listening_openai",A.c("Duke d\xebgjuar..."),"loadKeyFailed_openai",A.c("Tasti i ngarkimit d\xebshtoi"),"loadKeySuccess_openai",A.c("Ngarko me sukses"),"manage_openai",A.c("Menaxho"),"medium_openai",A.c("medium"),"mood_openai",A.c("Humor"),"moreOptions_openai",A.c("Me shume opsione"),"newChat_openai",A.c("Bised\xeb e re"),"noImageGenerate_openai",A.c("Asnj\xeb imazh nuk gjenerohet"),"numberOfImagesCondition_openai",A.c("Numri i imazheve p\xebr t\xeb krijuar. Duhet t\xeb jet\xeb midis 1 dhe 10."),"numberOfImages_openai",A.c("Numri i imazheve"),"options_openai",A.c("Opsione"),"page_openai",A.c("faqe"),"pleaseCheckConnection_openai",A.c("Ju lutemi kontrolloni lidhjen tuaj dhe provoni p\xebrs\xebri!"),"pleaseInputFillAllFields_openai",A.c("Ju lutemi plot\xebsoni t\xeb gjitha fushat"),"pleaseInputKey_openai",A.c("Ju lutemi futni \xe7el\xebsin"),"prompt_openai",A.c("i menj\xebhersh\xebm"),"putKeyHere_openai",A.c("Vendos \xe7el\xebsin t\xebnd k\xebtu"),"regenerateResponse_openai",A.c("Rigjeneroni p\xebrgjigjen"),"remaining_openai",A.c("mbetur"),"removeKeyFailed_openai",A.c("Heqja e \xe7el\xebsit d\xebshtoi"),"removeKeySuccess_openai",A.c("\xc7el\xebsi u hoq me sukses"),"remove_openai",A.c("Hiq"),"resetSettings_openai",A.c("Rivendos cil\xebsimet"),"reset_openai",A.c("Reset"),"saveKeyFailed_openai",A.c("Ruajtja e \xe7el\xebsit d\xebshtoi"),"saveKeySuccess_openai",A.c("\xc7el\xebsi u ruajt me sukses"),"saveKey_openai",A.c("Ruaj \xe7el\xebsin"),"save_openai",A.c("Save"),"searchByPrompt_openai",A.c("K\xebrko sipas k\xebrkes\xebs..."),"sectionKeywords_openai",A.c("Seksioni Fjal\xeb ky\xe7e"),"sectionTopic_openai",A.c("Seksioni Tema"),"selectChatFailed_openai",A.c("Zgjidhni Biseda d\xebshtoi"),"selectPrompt_openai",A.c("Zgjidhni Prompt"),"settings_openai",A.c("Cil\xebsimet"),"share_openai",A.c("pjes\xeb"),"skills_openai",A.c("Aft\xebsit\xeb"),"somethingWentWrong_openai",A.c("Dicka shkoi keq!!!"),"somethingWhenWrong_openai",A.c("Dicka shkoi keq! Ju lutemi provoni p\xebrs\xebri m\xeb von\xeb. Shume faleminderit!"),"speechNotAvailable_openai",A.c("Fjalimi nuk ofrohet"),"style_openai",A.c("Stili"),"subscriptionExpiredDate_openai",B.hhT(),"tapTheMicToTalk_openai",A.c("Prek mikrofonin p\xebr t\xeb folur"),"textGenerate_openai",A.c("Gjenerimi i tekstit"),"textGenerator_openai",A.c("Gjeneruesi i tekstit"),"timeGenerate_openai",B.hhU(),"typeAMessage_openai",A.c("Shkruani nj\xeb mesazh..."),"viewType_openai",A.c("Lloji i pamjes"),"view_openai",A.c("Pamje"),"write_openai",A.c("Shkruaj")],y.g,y.a)},
+bAT:function bAT(d){this.a=d}}
+C=c[0]
+D=c[58]
+A=c[57]
+E=c[56]
+B=a.updateHolder(c[41],B)
+B.bAT.prototype={
+gh6(){return"sq"},
+gf6(){return this.a}}
+var z=a.updateTypes(["r(@)","a2<r,bs>(@)"]);(function installTearOffs(){var x=a._static_1
+x(B,"hhR","fJa",0)
+x(B,"hhS","fKe",0)
+x(B,"hhT","fLm",0)
+x(B,"hhU","fMu",0)
+x(B,"hhQ","fa3",1)})();(function inheritance(){var x=a.inherit
+x(B.bAT,D.cz)})()
+C.fB(b.typeUniverse,JSON.parse('{"bAT":{"cz":[]}}'))
+var y={a:C.X("bs"),g:C.X("r")};(function lazyInitializers(){var x=a.lazyFinal
+x($,"i_k","fwx",()=>new B.bAT(B.fa3(B.hhQ())))})()};
+((a,b)=>{a[b]=a.current
+a.eventLog.push({p:"main.dart.js_78",e:"endPart",h:b})})($__dart_deferred_initializers__,"imxOOe/XLXA/RJDRIKwu03OreU8=");
